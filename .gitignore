@@ -1,0 +1,25 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Personal financial records
+data/
+expenses.csv
+budget.txt
+
+# VS Code local settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Python test and coverage files
+.pytest_cache/
+.coverage
